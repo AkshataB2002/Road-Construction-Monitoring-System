@@ -10,3 +10,4 @@ folium
 haversine
 opencv-python
 reportlab
+matplotlib
