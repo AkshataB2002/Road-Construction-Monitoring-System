@@ -126,7 +126,7 @@ This project provides a web-based application to monitor road construction progr
    - Predicts the layer using the AI model.
 
 ### Step 2: Engineer Workflow
-1. The engineer logs in and selects a project to view updates.
+1. The Engineer logs in and selects a project to view updates.
 2. The system provides:
    - Batch-level details for each update.
    - Visualizations of progress and predictions.
