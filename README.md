@@ -12,7 +12,7 @@ This project provides a web-based application to monitor road construction progr
 ### Constructor Features
 1. **Upload Video and SRT Files**:
    - Extract representative frames from uploaded videos.
-   - Parse SRT files to retrieve GPS coordinates.
+   - Parse SRT files to retrieve GPS Coordinates.
 2. **Layer Prediction**:
    - Use AI-based models to predict the construction layer (e.g., site preparation, asphalt laying).
 3. **Distance Calculation**:
