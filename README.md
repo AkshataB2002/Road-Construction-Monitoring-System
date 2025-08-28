@@ -3,7 +3,7 @@
 
 # Road Construction Progress Monitoring System
 
-This project provides a web-based application to monitor road construction progress. The system uses AI-based image analysis, GPS coordinates validation, and a robust database to manage and track construction updates for different road layers. Built with **Streamlit**, the tool offers constructors and engineers a user-friendly interface to upload project updates and view detailed analytics.
+This project provides a web-based application to monitor road construction progress. The system uses Ai-based image analysis, GPS coordinates validation, and a robust database to manage and track construction updates for different road layers. Built with **Streamlit**, the tool offers constructors and engineers a user-friendly interface to upload project updates and view detailed analytics.
 
 ---
 
